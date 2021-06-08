@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<levels>
+		<level name="Maven: org.springframework:spring-context:5.2.6.RELEASE" value="project"/>
+		<level name="Maven: org.springframework:spring-aop:5.2.6.RELEASE" value="project"/>
+		<level name="Maven: org.springframework:spring-beans:5.2.6.RELEASE" value="project"/>
+		<level name="Maven: org.springframework:spring-core:5.2.6.RELEASE" value="project"/>
+		<level name="Maven: org.springframework:spring-jcl:5.2.6.RELEASE" value="project"/>
+		<level name="Maven: org.springframework:spring-expression:5.2.6.RELEASE" value="project"/>
+		<level name="Maven: javax.inject:javax.inject:1" value="project"/>
+		<level name="Maven: org.eclipse.persistence:javax.persistence:2.2.1" value="project"/>
+		<level name="Maven: com.google.code.gson:gson:2.8.6" value="project"/>
+		<level name="Maven: org.apache.commons:commons-lang3:3.10" value="project"/>
+		<level name="Maven: org.slf4j:slf4j-api:1.7.30" value="project"/>
+		<level name="Maven: org.slf4j:slf4j-log4j12:1.7.30" value="project"/>
+		<level name="Maven: log4j:log4j:1.2.17" value="project"/>
+	</levels>
+</component>

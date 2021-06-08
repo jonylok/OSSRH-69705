@@ -1,0 +1,4 @@
+com/vtm/ddd/persistence/jpa/EntityRepositoryJpa.class
+com/vtm/ddd/persistence/jpa/NamedQueryParser.class
+com/vtm/ddd/persistence/jpa/namedqueryparser/NamedQueryParserHibernate.class
+com/vtm/ddd/persistence/jpa/EntityManagerProvider.class

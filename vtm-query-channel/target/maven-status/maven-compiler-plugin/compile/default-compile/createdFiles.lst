@@ -1,0 +1,7 @@
+com/vtm/ddd/querychannel/query/ChannelNamedQuery.class
+com/vtm/ddd/querychannel/QueryChannelService.class
+com/vtm/ddd/querychannel/CountQueryStringBuilder.class
+com/vtm/ddd/querychannel/query/ChannelJpqlQuery.class
+com/vtm/ddd/querychannel/ChannelQuery.class
+com/vtm/ddd/querychannel/query/ChannelSqlQuery.class
+com/vtm/ddd/querychannel/impl/QueryChannelServiceImpl.class
